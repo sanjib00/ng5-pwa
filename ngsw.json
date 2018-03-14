@@ -1,0 +1,36 @@
+{
+  "configVersion": 1,
+  "index": "https://sanjib00.github.io/pwa/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://sanjib00.github.io/pwa/favicon.ico",
+        "https://sanjib00.github.io/pwa/index.html",
+        "https://sanjib00.github.io/pwa/inline.efa6e14ffbeb9a44fb9b.bundle.js",
+        "https://sanjib00.github.io/pwa/main.8fed7fa76c19c0392971.bundle.js",
+        "https://sanjib00.github.io/pwa/polyfills.f20484b2fa4642e0dca8.bundle.js",
+        "https://sanjib00.github.io/pwa/styles.9c0ad738f18adc3d19ed.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://sanjib00.github.io/pwa/inline.efa6e14ffbeb9a44fb9b.bundle.js": "45a0c6029de0c8bbeb5f44425bc1edbbfb33f3f3",
+    "https://sanjib00.github.io/pwa/main.8fed7fa76c19c0392971.bundle.js": "c82136fdda0239cdd7caf1c45b03dc4a41ee2702",
+    "https://sanjib00.github.io/pwa/polyfills.f20484b2fa4642e0dca8.bundle.js": "0b0af365e031b7cbba789493d311e94192720c68",
+    "https://sanjib00.github.io/pwa/styles.9c0ad738f18adc3d19ed.bundle.css": "e392ebe39e63c70b434f71bbe87278aa9aa641c0",
+    "https://sanjib00.github.io/pwa/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://sanjib00.github.io/pwa/index.html": "0da64a089e0c878fc40fe0c6be2e36be1383d707"
+  }
+}
